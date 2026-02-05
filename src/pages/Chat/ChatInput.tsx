@@ -77,9 +77,6 @@ export function ChatInput({ onSend, disabled = false, sending = false }: ChatInp
         </Button>
       </div>
 
-      <p className="text-xs text-muted-foreground mt-1.5 text-center">
-        Enter to send, Shift+Enter for new line
-      </p>
     </div>
   );
 }
