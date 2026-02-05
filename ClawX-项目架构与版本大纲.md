@@ -63,7 +63,7 @@
 - ✅ **版本绑定** - 每个 ClawX 版本绑定特定 openclaw 版本
 - ✅ **CLI 兼容** - 命令行保持 `openclaw` 命令，不引入 `clawx` CLI
 
-openclaw project Local: /Users/guoyuliang/Project/openclaw remote: https://github.com/openclaw/openclaw
+openclaw project remote: https://github.com/openclaw/openclaw
 ### 1.4 CLI 兼容性设计
 
 ClawX 是 OpenClaw 的**图形化增强层**，而非替代品。用户可以同时使用 GUI 和 CLI：
