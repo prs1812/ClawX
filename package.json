@@ -2,7 +2,10 @@
   "name": "clawx",
   "version": "0.1.0",
   "pnpm": {
-    "onlyBuiltDependencies": ["electron", "esbuild"]
+    "onlyBuiltDependencies": [
+      "electron",
+      "esbuild"
+    ]
   },
   "description": "ClawX - Graphical AI Assistant based on OpenClaw",
   "main": "dist-electron/main/index.js",
@@ -40,6 +43,8 @@
   "dependencies": {
     "electron-store": "^10.0.0",
     "electron-updater": "^6.3.9",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
     "ws": "^8.18.0"
   },
   "devDependencies": {
